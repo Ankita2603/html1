@@ -1,0 +1,33 @@
+body{
+	padding: 0px;
+	margin: 0px;
+}
+.a1{
+	border-radius: 8px;
+	width: 45px;
+	height: 45px;
+	background-color: white;
+	color:black;
+	text-align: center;
+	padding: 3px;
+	font-size: 13px;
+}
+.fa-facebook{
+	background-color: darkblue;
+	padding: 7px;
+}
+.a2{
+	cursor: pointer;
+}
+.fa-twitter{
+	background-color: lightblue;
+	padding: 4px;
+}
+.fa-rss-square{
+	background-color: orange;
+	padding: 5px;
+}
+.fa-google-plus-square{
+	background-color: red;
+	padding: 5px;
+}

@@ -1,0 +1,159 @@
+body{
+	margin: 0px;
+}
+.grad{
+	background-color: #DCE1DD;
+	background-image: linear-gradient(right, #a3a0a0, transparent);
+}
+.a{
+	background-color: #191919;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    height: 60px;
+    list-style-type: none;
+    overflow: hidden;	
+}
+.a1{
+	font-size: 30px;
+	float: left;
+	margin: 13px;
+	margin-left: 100px;
+	color: #7C7734;
+}
+.a2{
+	float: left;
+	margin: 21px;
+	color: #424242;
+}
+.a3{
+	float: left;
+	margin: 21PX;
+	margin-left: 417px;
+	color: #494949;
+}
+.a4{
+	float: left;
+	margin: 21PX;
+	color: #494949;
+}
+.a5{
+	color: #494949;
+	float: left;
+	margin: 21PX;
+	margin-right: 100px;
+}
+.b1{
+	width: 650px;
+	height: 270px;
+	margin-left: 100px;
+	margin-top: 3%;
+}
+.b2{
+	float: right;
+	margin-right: 100px;
+	margin-top: -19%;
+	width: 530px;
+}
+.b3{
+	width: 200px;
+	height: 50px;
+	margin: 10px;
+	border-radius: 10px;
+	text-align: center;
+	background-color: #b3b3b3;
+}
+.common{
+	border: 1px;
+	width: 100%;
+	height: 420px;
+	margin-top: 30px;
+}
+.common-1{
+	border: 1px;
+	width: 335px;
+	height: 380px;
+	float: left;
+	margin-left: 80px;
+	word-spacing: 5px;
+	padding: 20px;
+}
+.common-2{
+	border: 1px;
+	width: 335px;
+	height: 380px;
+	float: left;
+	word-spacing: 5px;
+	padding: 20px;
+}
+.common-3{
+	border: 1px;
+	width: 530px;
+	height: 420px;
+	float: left;
+	margin-left: 60px;
+	margin-top: 10px;
+}
+.img{
+	width: 530px;
+	height: 260px;
+}
+.last{
+	border: 1px;
+	height: 290px;
+	width: 100%;
+	color: gray;
+	background-color: #212020;
+}
+.last-1{
+	border: 1px;
+	height: 250px;
+	width: 400px;
+	float: left;
+	padding: 15px;
+	margin-left: 80px;
+}
+.last-2{
+	border: 1px;
+	height: 250px;
+	width: 400px;
+	float: left;
+	margin-left: 40px;
+	padding: 15px;
+}
+.last-3{
+	border: 1px;
+	height: 250px;
+	width: 360px;
+	float: left;
+	margin-left: 40px;
+	padding: 15px;
+}
+.img-12{
+	width: 25px;
+	height: 25px;
+	padding: 10px;
+}
+.c-1{
+	list-style-type: none;
+    overflow: hidden;
+    background-color: black;
+    color: darkgray;
+    margin: 0px;
+    padding: 0px;
+}
+.c-2{
+	margin: 5px;
+	margin-left: 100px;
+	float: left;
+}
+.c-3{
+	margin: 5px;
+	margin-left: 550px;
+	float: left;
+}
+.c-4{
+	margin: 5px;
+	margin-left: 50px;
+	float: left;
+}

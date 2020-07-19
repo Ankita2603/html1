@@ -1,0 +1,32 @@
+body{
+	margin: 1%;	
+	padding: 0.3%;
+}
+header {
+	background-color: #C6C6C6;
+}
+
+h1{
+	text-align: center;
+	color: #FFFFFF;
+	text-transform: uppercase;
+}
+
+h2{
+	color: #000080;
+	text-transform: uppercase;
+}
+
+section {
+	background-color: #7F7F7F;
+}
+
+nav a{
+	color: black;
+}
+
+a{
+	text-align: center;
+	background-color: #A0A0A0;
+	color: #000080;
+}

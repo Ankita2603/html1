@@ -1,0 +1,48 @@
+label {
+        padding: 20px;
+		}
+		div {
+			background-color: gray;
+			padding: 5px;
+			padding-right: 50%;
+		}
+		.center{
+			margin: auto;
+			width: 60%;
+			border: 2px solid black;
+			padding: 5px;
+		}
+		.span{
+			width: 60%;
+			height: 615px;
+		}
+		.one{
+            margin-left: 12px;
+		}
+		.two{
+			margin-left: 15px;
+		}
+		.three{
+			margin-left: 30px;
+		}
+		.four{
+			margin-left: 18px;
+		}
+		.five{
+            margin-left: 35px;
+		}
+		.six{
+			margin-left: 20px;
+		}
+		.seven{
+			margin-left: 33px;
+		}
+		.eight{
+			margin-left: 35px;
+		}
+		.nine{
+			margin-left: 5px;
+		}
+		.ten{
+			margin-left: 5px;
+		}

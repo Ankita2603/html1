@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> HTML Form</title>
+</head>
+<body>
+<table>
+	<table align="center" cellpadding="5">
+		<tr>
+			<td>Name :</td>
+			<td>
+				<input type="text" placeholder="Enter Your Name" name="hello">
+			</td>
+		</tr>
+		<tr>
+			<td>Date Of Birth :</td>
+			<td>
+				<input type="Number" placeholder="dd/mm/yyyy" name="">
+			</td>
+		</tr>
+		<tr>
+			<td>Phone No. :</td>
+			<td>
+				<input type="Number" placeholder="0123456789" name="">
+			</td>
+		</tr>
+		<tr>
+			<td>Gender :</td>
+			<td>
+				<input type="radio" name="Gender">Male
+				<input type="radio" name="Gender">Female
+			</td>
+		</tr>
+		<tr>
+			<td>Email :</td>
+			<td>
+				<input type="Email" placeholder="Enter Your Email" name="">
+			</td>
+		</tr>
+		<tr>
+			<td>Password :</td>
+			<td>
+				<input type="Password" placeholder="Password" name="">
+			</td>
+		</tr>
+		<tr>
+			<td>Adress :</td>
+			<td>
+				<textarea rows="4" cols="25" placeholder="Enter Your Adress"></textarea>
+			</td>
+		</tr>
+		<tr>
+			<td>State :</td>
+			<td>
+				<input type="text" placeholder="Enter Your Adress" name="">
+			</td>
+		</tr>
+		<tr>
+			<td>City :</td>
+			<td>
+				<input type="text" placeholder="Enter Your City" name="">
+			</td>
+		</tr>
+		<tr>
+			<td>Country :</td>
+			<td>
+				<input type="text" placeholder="Enter Your Country" name="">
+			</td>
+		</tr>
+		<tr>
+			<td>Pin Code :</td>
+			<td>
+				<input type="Number" placeholder="Enter Your Pin Code" name="">
+			</td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2">
+				<input type="Submit" value="Submit" name=""> &nbsp;&nbsp;
+				<input type="Submit" value="Reset" name="">
+			</td>
+		</tr>
+	</table>
+	</fieldset>
+</form>
+</body>
+</html>

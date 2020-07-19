@@ -1,0 +1,154 @@
+body{
+	background-color: #F0F1F5;
+	margin: 0px;
+	padding: 100px 10px 10px 70px;
+}
+.active{
+	background-color: #FFFFFF;
+	border: 1px;
+	float: left;
+	width: 300px;
+	height: 500px;
+	padding: 10px;
+	text-align: center;
+}
+.input-icons i{
+	position: absolute;
+	margin: 10px 10px 10px 100px;
+	padding: 16px;
+}
+.input-icons{
+	width: 100%;
+}
+.input-field{
+	border-radius: 10px;
+	width: 250px;
+	padding: 15px;
+	margin: 10px;
+}
+.a-1{
+	float: left;
+	width: 15px;
+	height: 15px;
+	margin: 22px 10px 20px 10px;
+}
+.a-2{
+	float: left;
+	padding: 0px 10px 10px 0px;
+}
+.a-3{
+	float: right;
+	padding: 0px 10px;
+}
+.a-4{
+	background-color: #0B79DA;
+	border-radius: 10px;
+	width: 283px;
+	padding: 10px;
+	margin: 10px;
+}
+.a-5{
+	border-radius: 40px;
+	width: 50px;
+	height: 50px;
+	margin: 5px;
+	padding: 10px;
+	color: #44649E;
+}
+.active-1{
+	background-color: #FFFFFF;
+	border: 1px;
+	float: left;
+	width: 300px;
+	height: 700px;
+	padding: 10px;
+	text-align: center;	
+	margin-left: 50px;
+}
+.a-12{
+	float: left;
+	width: 15px;
+	height: 15px;
+	margin: 18px 10px 20px 10px;
+}
+.active-2{
+	background-color: #FFFFFF;
+	border: 1px;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 360px;
+    margin-top: -237.1%;
+	float: left;
+}
+.active-3{
+	background-color: #FFFFFF;
+	border: 1px;
+    width: 300px;
+    height: 370px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 360px;
+    margin-top: -115%;
+	float: left;
+}
+.active-4{
+	background-color: #FFFFFF;
+	border: 1px;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 730px;
+    margin-top: -253%;
+	float: left;
+}
+.b-1{
+	width: 30px;
+	height: 30px;
+	float: left;
+	margin:10px;
+	text-align: center;
+	border-radius: 10px;
+	padding: 9px;
+}
+.active-5{
+	background-color: #FFFFFF;
+	border: 1px;
+    width: 300px;
+    height: 370px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 730px;
+    margin-top: -131%;
+	float: left;
+}
+.c-1{
+	border-radius: 10px;
+	width: 283px;
+	height: 50px;
+	margin: 10px;
+}
+.active-6{
+	background-color: #FFFFFF;
+	border: 1px;
+    width: 300px;
+    height: 380px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 1100px;
+    margin-top: -253%;
+	float: left;
+}
+.active-7{
+	background-color: #FFFFFF;
+	border: 1px;
+    width: 300px;
+    height: 340px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 1100px;
+    margin-top: -105%;
+	float: left;
+}
